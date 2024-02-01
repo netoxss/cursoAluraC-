@@ -1,0 +1,14 @@
+C:\Users\pedron\source\repos\curso\curso\bin\Debug\net8.0\curso.exe
+C:\Users\pedron\source\repos\curso\curso\bin\Debug\net8.0\curso.deps.json
+C:\Users\pedron\source\repos\curso\curso\bin\Debug\net8.0\curso.runtimeconfig.json
+C:\Users\pedron\source\repos\curso\curso\bin\Debug\net8.0\curso.dll
+C:\Users\pedron\source\repos\curso\curso\bin\Debug\net8.0\curso.pdb
+C:\Users\pedron\source\repos\curso\curso\obj\Debug\net8.0\curso.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\pedron\source\repos\curso\curso\obj\Debug\net8.0\curso.AssemblyInfoInputs.cache
+C:\Users\pedron\source\repos\curso\curso\obj\Debug\net8.0\curso.AssemblyInfo.cs
+C:\Users\pedron\source\repos\curso\curso\obj\Debug\net8.0\curso.csproj.CoreCompileInputs.cache
+C:\Users\pedron\source\repos\curso\curso\obj\Debug\net8.0\curso.dll
+C:\Users\pedron\source\repos\curso\curso\obj\Debug\net8.0\refint\curso.dll
+C:\Users\pedron\source\repos\curso\curso\obj\Debug\net8.0\curso.pdb
+C:\Users\pedron\source\repos\curso\curso\obj\Debug\net8.0\curso.genruntimeconfig.cache
+C:\Users\pedron\source\repos\curso\curso\obj\Debug\net8.0\ref\curso.dll
